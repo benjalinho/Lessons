@@ -1,0 +1,6 @@
+C:\Users\Brian\Documents\GitHub\Lessons\Lesson4\bin\Debug\Lesson4.exe.config
+C:\Users\Brian\Documents\GitHub\Lessons\Lesson4\bin\Debug\Lesson4.exe
+C:\Users\Brian\Documents\GitHub\Lessons\Lesson4\bin\Debug\Lesson4.pdb
+C:\Users\Brian\Documents\GitHub\Lessons\Lesson4\obj\Debug\Lesson4.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\Lessons\Lesson4\obj\Debug\Lesson4.exe
+C:\Users\Brian\Documents\GitHub\Lessons\Lesson4\obj\Debug\Lesson4.pdb

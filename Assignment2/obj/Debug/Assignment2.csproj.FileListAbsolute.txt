@@ -1,0 +1,5 @@
+C:\Users\Brian\Documents\GitHub\Lessons\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Brian\Documents\GitHub\Lessons\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Brian\Documents\GitHub\Lessons\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Brian\Documents\GitHub\Lessons\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Brian\Documents\GitHub\Lessons\Assignment2\obj\Debug\Assignment2.pdb
